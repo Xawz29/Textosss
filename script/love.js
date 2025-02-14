@@ -39,7 +39,7 @@ function init() {
     ctx.font = "60px Arial";
     ctx.fillStyle = "lightblue";
     ctx.textAlign = "center";
-    ctx.fillText("Te amo Sofi <3", width / 2, height / 2.2 + 400);
+    ctx.fillText("Tecueme bestie <3", width / 2, height / 2.2 + 400);
   }
 
   function heartPosition(rad) {

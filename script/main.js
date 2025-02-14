@@ -9,26 +9,26 @@ document.addEventListener('keydown', function(e) {
 });
 
 const messages = [
-    "Despierta dormilonaaa😼",
-    "Te quiero decir algo importante❤️",
-    "En este día especial",
-    "Quisiera saber...",
-    "Si yo...",
-    "Podría ser...",
-    "Tu san Valentín?",
-    "Prometo que lo pasaremos",
-    "geniaaaaaaaaaal",
-    "No te arrepentirás",
-    "Porque te amo mucho",
-    "Quiero estar siempre",
-    "a tu lado❤️ ",
-    "En la salud y en la adversidad",
-    "en las buenas y en las malas",
-    "como lo prometimos un día",
-    "prometo estar ahí para ti",
-    "porque te amooooo❤️",
-    "y quiero estar junto a ti",
-    "todos los días de mi vida 💝"
+    "Despierta besticita dormilonaaa😼",
+    "¿Sabes que día es hoy?🌚",
+    "¡Feliz 14 a mi chascosa favvv!",
+    "gracias por darme esta linda amistad",
+    "aunque un poco tóxica",
+    "jasjhsjka bromitaa",
+    "Messiento feliz de compartir un pedacito de tu vida",
+    "y que aunque ahora estemos lejos",
+    "eso no será por mucho time",
+    "ve alistando mi cartel para cuando llegueeee",
+    "y tambien alista tu pancita pa comer",
+    "que llegaré con mucha hambre uu",
+    "ay bestie, siempre te lo repito",
+    "ya estarás harta jahsjhsaj",
+    "pero te quiero muchoooo <3",
+    "aunque a veces me saques canas verdes",
+    "y mi hígado quiera reventar",
+    "eres ese chat el cual quiero ver todos los díasss",
+    "así que nada",
+    "Feliz 14 hermanita linda 🫶"
 ];
 
 let currentPage = 0;
